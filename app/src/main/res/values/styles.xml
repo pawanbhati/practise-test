@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MuliBold16">
+        <item name="android:fontFamily">@font/muli_bold</item>
+        <item name="android:textSize">@dimen/txt_16</item>
+    </style>
+
+    <style name="MuliBold18">
+        <item name="android:fontFamily">@font/muli_bold</item>
+        <item name="android:textSize">@dimen/txt_18</item>
+    </style>
+
+    <style name="MuliBold22">
+        <item name="android:fontFamily">@font/muli_bold</item>
+        <item name="android:textSize">@dimen/txt_22</item>
+    </style>
+    <style name="MuliBold14">
+        <item name="android:fontFamily">@font/muli_bold</item>
+        <item name="android:textSize">@dimen/txt_14</item>
+    </style>
+
+    <style name="MuliRegular16">
+        <item name="android:fontFamily">@font/muli_regular</item>
+        <item name="android:textSize">@dimen/txt_16</item>
+    </style>
+
+    <style name="MuliRegular18">
+        <item name="android:fontFamily">@font/muli_regular</item>
+        <item name="android:textSize">@dimen/txt_18</item>
+    </style>
+
+    <style name="MuliRegular14">
+        <item name="android:fontFamily">@font/muli_regular</item>
+        <item name="android:textSize">@dimen/txt_14</item>
+    </style>
+
+    <style name="MuliSemiBold14">
+        <item name="android:fontFamily">@font/muli_semibold</item>
+        <item name="android:textSize">@dimen/txt_14</item>
+    </style>
+
+    <style name="MuliSemiBold18">
+        <item name="android:fontFamily">@font/muli_semibold</item>
+        <item name="android:textSize">@dimen/txt_18</item>
+    </style>
+
+    <style name="MuliSemiBold16">
+        <item name="android:fontFamily">@font/muli_semibold</item>
+        <item name="android:textSize">@dimen/txt_16</item>
+    </style>
+
+    <style name="MuliMedium12">
+        <item name="android:fontFamily">@font/muli_medium</item>
+        <item name="android:textSize">@dimen/txt_12</item>
+    </style>
+
+    <style name="MuliMedium14">
+        <item name="android:fontFamily">@font/muli_medium</item>
+        <item name="android:textSize">@dimen/txt_14</item>
+    </style>
+
+    <style name="MuliMedium16">
+        <item name="android:fontFamily">@font/muli_medium</item>
+        <item name="android:textSize">@dimen/txt_16</item>
+    </style>
+
+    <style name="MuliMedium18">
+        <item name="android:fontFamily">@font/muli_medium</item>
+        <item name="android:textSize">@dimen/txt_18</item>
+    </style>
+
+    <dimen name="txt_22">22sp</dimen>
+</resources>
